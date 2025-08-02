@@ -46,11 +46,3 @@ python password_manager.py
 ## Security Note
 
 This is a basic password manager for educational purposes. For production use, consider implementing encryption for stored passwords and additional security measure
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for improvements.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).# Password-Manager
